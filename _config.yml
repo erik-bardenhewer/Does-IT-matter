@@ -19,5 +19,5 @@ show_sidebar: false # show sidebar instead of header
 ### Menu
 
 #navigation:
-#  - {file: "index.html", title: Home Change, icon: home}
-#  - {file: "RADME.md", icon: adress-card}
+#  - {file: "index.html", title: Home, icon: home}
+#  - {file: "RADME.md", title: About, icon: adress-card}
