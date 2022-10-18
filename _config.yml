@@ -1,3 +1,8 @@
 theme: minima
 title: "How does IT matter?"
 author: "written by Erik Bardenhewer"
+baseurl: "" #custom domain name
+email: ""
+description: ""
+github_username: ""
+markdown: ""
