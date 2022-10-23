@@ -1,3 +1,23 @@
 theme: minima
 title: "How does IT matter?"
 author: "written by Erik Bardenhewer"
+baseurl: "" #custom domain name
+email: ""
+description: ""
+github_username: ""
+markdown: ""
+lang: "en" # adding german later
+date_format: "%B %d, %Y" # date format, might change it later
+
+### Layout
+
+show_social: false # show social links on the bottom of the site
+show_excerpts: true # show article excerpts on the overview
+show_frame: false # adds gray frame on the site
+show_sidebar: false # show sidebar instead of header
+
+### Menu
+
+#navigation:
+#  - {file: "index.html", title: Home, icon: home}
+#  - {file: "RADME.md", title: About, icon: adress-card}
