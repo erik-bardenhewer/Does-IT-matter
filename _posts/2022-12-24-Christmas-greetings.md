@@ -9,18 +9,18 @@ date: 2022-12-24
 
 </br>
 
-<div>
+<p>
 Dear recipients I would like to wish you a happy and restful Christmas. Spend nice days with your family, good friends or just do what feels the best for you.
-</div>
+</p>
 
 </br>
 
-<div>
+<p>
 There will be further contributions here in the future, some of which are already work in progress.
-</div>
+</p>
 
 </br>
 
-<div>
+<p>
   Stay tuned and have a great time.
-</div>
+</p>
