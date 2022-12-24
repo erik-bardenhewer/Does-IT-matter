@@ -9,18 +9,18 @@ date: 2022-12-24
 
 </br>
 
-<div>
+<p>
   Liebe Leser ich möchte euch ein frohes und erholsames Weihnachtsfest wünschen. Verbringen Sie schöne Tage mit ihrer Familie, guten Freunden oder einfach mit dem, was Ihnen gut tut.
-</div>
+</p>
 
 </br>
 
-<div>
+<p>
   Auch in Zukunft werden hier weitere Beiträge entstehen, von denen bereits einige in Arbeit sind.
-</div>
+</p>
 
 </br>
 
-<div>
+<p>
   Bleiben Sie gespannt und machen Sie sich eine gute Zeit.
-</div>
+</p>
