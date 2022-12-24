@@ -10,7 +10,7 @@ Weihnachtsgrüße
 </br>
 
 <p>
-  Liebe Leser ich möchte euch ein frohes und erholsames Weihnachtsfest wünschen. Verbringen Sie schöne Tage mit ihrer Familie, guten Freunden oder einfach mit dem, was Ihnen gut tut.
+  Liebe Leser ich möchte Ihnen ein frohes und erholsames Weihnachtsfest wünschen. Verbringen Sie schöne Tage mit ihrer Familie, guten Freunden oder einfach mit dem, was Ihnen gut tut.
 </p>
 
 </br>
