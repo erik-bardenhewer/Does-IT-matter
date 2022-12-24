@@ -4,7 +4,7 @@ date: 2022-12-24
 ---
 
 <h1>
-"Christmas greetings" 
+Christmas greetings
 </h1>
 
 </br>
