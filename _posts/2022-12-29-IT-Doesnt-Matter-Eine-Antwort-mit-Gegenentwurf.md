@@ -1,13 +1,12 @@
 ---
-title: "IT Doesn't Matter - Eine Antwort mit Gegenentwurf"
+title: "IT Doesn't Matter - Eine Antwort mit Gegenentwurf (german)"
 date: 2022-12-29
 ---
 
 <p>
 „IT Doesn’t Matter“. Mit diesem Artikel machte 2003 der renommierte Autor und Journalist der Bereiche Technologie, Wirtschaft und Soziologie, Nicholas Carr, in der Ausgabe R0305B des Harvard-Business-Review auf ein weitverbreitetes Phänomen bei der Investition in IT-Ressourcen aufmerksam – das die reine Beschaffung, Installation und Übersetzung von bestehenden Strukturen in die digitale Welt eben keine Wunderheilung einer Organisation sein würde, sondern sich nicht anders als andere Infrastrukturrevolutionen wie bspw. der flächendeckenden Ausbau 
 von Schienen oder Stromtrassen unterscheiden würde.
-</p>
-<p>
+<br />
 Bis zur Veröffentlichung seines Buches „Does IT Matter“ etwa ein Jahr nach dem Artikel im Harvard-Business-Review, gab es mannigfaltige Reaktionen auf den diskussionswürdigen Artikel, dessen Titel die Gemütslage der platzenden Dotcom-Blase so eindrucksvoll unterstreicht. 
 </p>
 
