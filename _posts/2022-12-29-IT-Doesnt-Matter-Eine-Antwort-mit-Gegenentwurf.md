@@ -52,6 +52,7 @@ Anfang der 2000er-Jahre mit Platzen der Dotcom-Blase, nachdem Unsummen in die ne
   
 <p></p>
 
+<br />
 <p>
 Dieser Gegenentwurf der beiden Autoren, IT würde damals großflächig als Allheilmittel missverstanden und müsse vielmehr inkrementell gemeinsam mit einer branchenspezifischen Unternehmensstrategie Hand-in-Hand Wege in die Zukunft weisen, ist eine Analyse, die auch heute – knapp 20 Jahre später – erschreckend relevant zu sein scheint. Ein übergeordnetes IT-Management zu schaffen, das gezielt die Erprobung innovativer Ideen begünstigt und die Unternehmenskultur sowie die Unternehmenslogiken gemäß dem Marktgeschehen und technologischen Fortschritten weiterentwickelt sind Überlegungen, die der damaligen Realität des Marktes weit voraus sind.
 <br />
