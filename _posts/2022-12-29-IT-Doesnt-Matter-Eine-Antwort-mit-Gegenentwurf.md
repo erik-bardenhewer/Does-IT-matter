@@ -32,8 +32,7 @@ Bei näherer Auseinandersetzung des Artikels „IT Doesn’t Matter“ sei vor a
 
 <p>
 Entgegen dem Gedanken, Informationstechnik als autonome und unternehmensweit einheitlich zu nutzende Ressource zu betrachten, entfalten sich Einsatzmöglichkeiten dieser Technologie gerade durch die mannigfaltigen Herausforderungen und unterschiedlichen Szenarien einer Organisation. Brown und Hagel stellen bereits 2002 fest, dass IT durch rapid fallende Kosten in der Herstellung und der rasanten Weiterentwicklung in Bezug auf Rechenleistung sich auf fundamental andere Weise weiterentwickeln könne und somit grundlegend anders eingesetzt werden kann als bekannte Technologieträger wie die von Carr erwähnten Schienennetzwerke oder Stromtrassen. IT könnte im Gegensatz zu diesen eben nicht nur als Beschleuniger bestehender Strukturen verwendet werden und somit einzig der Steigerung von Effizienz der Menge und Zeit an Prozessdurchläufen bestehender Strukturen dienen, sondern biete das Potenzial, originär neuen Mehrwert durch gänzlich neuartige Produkte, Organisationsformen oder Kundeninteraktionen zu schaffen. 
-</p>
-<p>
+<br />
 Diese Potenziale auszuschöpfen, setze allerdings ein erhöhtes Maß Veränderungs- sowie Risikobereitschaft voraus, indem sich eine Organisation nicht nur neuen Veränderungen hingeben müsse, sondern auch kontinuierlich an kreativen Ideen zur Schaffung neuer Anwendungsmöglichkeiten der Informationstechnologie arbeiten würde. Als isoliert eingesetzte Ressource könnte IT keine bemerkenswerten Umbrüche in einem Unternehmen oder gar einer ganzen Branche schaffen – besonders solche nicht, die eine Organisation von Mitbewerbern abheben würden. Diese Einschätzung verdeutlicht die Weitsicht Browns und Hagels hinlänglich möglicher Anwendungs- und Adaptionsmöglichkeiten der Informationstechnik in Unternehmen, sodass zielsicher auf Entwicklungen, die heute, Jahre später, ungeahnte Geschäftsmodelle, wie wir sie von bekannten Streaming-Diensten wie Netflix oder Spotify kennen - die das gesamte Konsumverhalten im Umgang mit Medien und Daten verändert haben - hingedeutet wird.
 </p>
 
@@ -41,8 +40,7 @@ Diese Potenziale auszuschöpfen, setze allerdings ein erhöhtes Maß Veränderun
 
 <p>
 Eine zentrale Komponente im IT-Management eben solche Entstehungsprozesse zu begünstigen, ist eine möglichst offene Veränderungskultur – die laut Brown und Hagel eine wichtige Voraussetzung zukünftiger Marktbehauptung sein würde, damit sich das Kerngeschäft im Rahmen seiner Branche entsprechend in umsetzbaren Inkrementen stetig weiterentwickeln würde. Organisationen, die ihre individuelle Unternehmensstrategie mit IT-strategischen Ansätzen vereinigen wollten, sollten eben diese beiden Bausteine stetig weiterentwickeln und somit zu kontinuierlicher Weiterentwicklung der Organisation, der eigenen Leistungsangebote und anderer Strukturen bereit sein. Kleine, aber stetige Veränderungen dieser Art zum Teil der eigenen Unternehmenskultur zu machen, würde den Weg ebnen, mit einer verhältnismäßig geringen Risikobereitschaft bspw. innovative Ideen und Projekte fortlaufend zu fördern, sodass Unternehmen sich selbst sowie auch die gesamte Branche aus sich heraus weiterentwickeln, im besten Fall eine führende Position am Markt einnehmen könnten und in allen anderen Fällen selbst keine großen technischen Schulden aufbauen und handlungsfähig bleiben, sollte sich aus dem Markt heraus ein noch unerwarteter neuer Trend ergeben, auf den man selbst später reagieren müsse.
-</p>
-<p>
+<br />
 Die beständige Investition in neuartige Projekte und die Weiterentwicklung der Organisation verspricht über das Aufrechterhalten der Handlungsfähigkeit zum einen aus Sicht des Veränderungsmanagements eine höhere Akzeptanz von Mitarbeitenden, Kunden und Partnern – im Gegensatz zu einem „Big-Bang“, der in großen zeitlichen Abständen erfolgt – zum anderen lässt die Kontinuität des Fortschreitens das Potenzial von IT weiter entfalten, da neue Ideen aktiv verfolgt werden und Hand-in-Hand mit den entsprechenden Branchenspezifika gedacht werden. Der Einflussbereich monolithisch gemanagter und fachlich abgekoppelter Technologien hingegen hätte kaum eine Chance, bestehende Arbeitsschritte, Geschäftslogiken und Mehrwerte weiter bzw. neu zu entwickeln. Eine Verzahnung von IT-Strategie mit der branchen-orientierten Unternehmensstrategie, die sich Hand-in-Hand inkrementell weiterentwickeln und neue Ideen sowie Innovationen erproben, seien somit zur zukünftigen Marktbehauptung unerlässlich.
 </p>
   
@@ -56,8 +54,7 @@ Anfang der 2000er-Jahre mit Platzen der Dotcom-Blase, nachdem Unsummen in die ne
 
 <p>
 Dieser Gegenentwurf der beiden Autoren, IT würde damals großflächig als Allheilmittel missverstanden und müsse vielmehr inkrementell gemeinsam mit einer branchenspezifischen Unternehmensstrategie Hand-in-Hand Wege in die Zukunft weisen, ist eine Analyse, die auch heute – knapp 20 Jahre später – erschreckend relevant zu sein scheint. Ein übergeordnetes IT-Management zu schaffen, das gezielt die Erprobung innovativer Ideen begünstigt und die Unternehmenskultur sowie die Unternehmenslogiken gemäß dem Marktgeschehen und technologischen Fortschritten weiterentwickelt sind Überlegungen, die der damaligen Realität des Marktes weit voraus sind.
-</p>
-<p>
+<br />
 Ideen, die einem IT-Manager von heute keine fremden Ansätze sind.
 </p>
   
