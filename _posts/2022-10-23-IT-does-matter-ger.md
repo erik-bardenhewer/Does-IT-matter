@@ -1,5 +1,5 @@
 ---
-title: "IT does matter (german)"
+title: "Does IT matter? (german)"
 date: 2022-10-23
 ---
 
