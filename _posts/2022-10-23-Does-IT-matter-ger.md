@@ -19,4 +19,4 @@ Schaut man wieder zurück auf die heute dominierenden Technologiegrößen der In
 </p>
 <br />
 <br />
-<sup>1</sup>: <a href="https://www.nicholascarr.com"> N. Carr 2022 </a>
+1: <a href="https://www.nicholascarr.com"> N. Carr 2022 </a>
