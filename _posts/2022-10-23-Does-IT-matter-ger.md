@@ -8,7 +8,7 @@ date: 2022-10-23
 </p>
 <br />
 <p>
-Mit dieser Frage hat sich bereits nach dem industriellen Einzug von Datenverarbeitungssystemen Nicholas G. Carr beschäftigt – Autor und Journalist im Bereich Technologie, Wirtschaft und Soziologie.[^1] In seinem Artikel "IT doesn't matter" im Harvard Business Review (Kennung R0305B) kommt dieser kurz nach der Jahrtausendwende 2003 zu dem Schluss, dass IT und die damit verbundenen Möglichkeiten kaum mehr als die neuste Infrastrukturrevolution sein kann.  Ebenso wie die flächendeckende Einführung von Elektrizität ab dem Jahre 1889 verändert sich in der Industrie zwar das Hauptmedium auf und mit dem operiert wird, viel mehr als eine Karosserie, die bestehende Prozesse und Vorgänge eines Unternehmens trägt und auf eine nun digitale Weise abbildet sei dem Phänomen IT allerdings nicht zuzuschreiben. </p>
+Mit dieser Frage hat sich bereits nach dem industriellen Einzug von Datenverarbeitungssystemen Nicholas G. Carr beschäftigt – Autor und Journalist im Bereich Technologie, Wirtschaft und Soziologie.<sup> 1 </sup> In seinem Artikel "IT doesn't matter" im Harvard Business Review (Kennung R0305B) kommt dieser kurz nach der Jahrtausendwende 2003 zu dem Schluss, dass IT und die damit verbundenen Möglichkeiten kaum mehr als die neuste Infrastrukturrevolution sein kann.  Ebenso wie die flächendeckende Einführung von Elektrizität ab dem Jahre 1889 verändert sich in der Industrie zwar das Hauptmedium auf und mit dem operiert wird, viel mehr als eine Karosserie, die bestehende Prozesse und Vorgänge eines Unternehmens trägt und auf eine nun digitale Weise abbildet sei dem Phänomen IT allerdings nicht zuzuschreiben. </p>
 <p>
 Dies scheint intuitiv eine klare Fehlannahme, besonders in Zeiten von Technologiegiganten wie Alphabet, Tesla oder Apple, der Coronakrise und rasant wachsenden Blockchainanwendungen wie Kryptowährungen oder NFTs , die seit den 1960er-Jahren einziehende Technologisierung der Industrie plausibilisiert allerdings die heute als gewagt wirkende Schlussfolgerung Carrs sowie das noch heute weitverbreitete Verständnis von IT als „Cost-Center“ bzw. Infrastruktur am Markt stark. </p>
 <p>
@@ -19,4 +19,4 @@ Schaut man wieder zurück auf die heute dominierenden Technologiegrößen der In
 </p>
 <br />
 <br />
-[^1]: <a href="https://www.nicholascarr.com"> N. Carr 2022 </a>
+1: <a href="https://www.nicholascarr.com"> N. Carr 2022 </a>
