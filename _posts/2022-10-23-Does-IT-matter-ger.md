@@ -20,7 +20,11 @@ Schaut man wieder zurück auf die heute dominierenden Technologiegrößen der In
 <br />
 <br />
 1: <a href="https://www.nicholascarr.com"> Carr 2022</a>, Blog, aufgerufen am 22.10.2022
+<br />
 2: Carr 2003, "IT Doesn't Matter", Harvard Business Review R0305B
+<br />
 3: Bocksch 2022, Statista GmbH, aufgerufen am 22.10.2022
+<br />
 4: Urbach/ Ahlemann 2016, IT-Management im Zeitalter der Digitalisierung, Springer; Schönfelder 2018, Muße – Garant für unternehmerischen Erfolg, Springer
+<br />
 5: Urbach/ Ahlemann 2016, IT-Management im Zeitalter der Digitalisierung, Springer
